@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleForAliyunOssFileProvider31", "consoleForAliyunOssFileProvider31\consoleForAliyunOssFileProvider31.csproj", "{0DC7BCB0-81F3-4007-98C3-1F6803493A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleForAzureBlobFileProvider31", "consoleForAzureBlobFileProvider31\consoleForAzureBlobFileProvider31.csproj", "{16D77DFE-54E4-419B-9559-D688B9D043DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.FileProviders.AliyunOssStorage", "Microsoft.Extensions.FileProviders.AliyunOssStorage\Microsoft.Extensions.FileProviders.AliyunOssStorage.csproj", "{EDDEAEE0-F6F6-4977-AAF8-7CBF10DDE1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.FileProviders.AzureBlobStorage", "Microsoft.Extensions.FileProviders.AzureBlobStorage\Microsoft.Extensions.FileProviders.AzureBlobStorage.csproj", "{F034EEBB-980D-4829-A28E-39C849480C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleForFileProvider31", "consoleForFileProvider31\consoleForFileProvider31.csproj", "{EB1990F8-C12B-4307-A94A-E1F54CD73F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC7BCB0-81F3-4007-98C3-1F6803493A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC7BCB0-81F3-4007-98C3-1F6803493A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC7BCB0-81F3-4007-98C3-1F6803493A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC7BCB0-81F3-4007-98C3-1F6803493A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D77DFE-54E4-419B-9559-D688B9D043DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D77DFE-54E4-419B-9559-D688B9D043DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D77DFE-54E4-419B-9559-D688B9D043DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D77DFE-54E4-419B-9559-D688B9D043DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDEAEE0-F6F6-4977-AAF8-7CBF10DDE1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDEAEE0-F6F6-4977-AAF8-7CBF10DDE1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDEAEE0-F6F6-4977-AAF8-7CBF10DDE1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDEAEE0-F6F6-4977-AAF8-7CBF10DDE1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F034EEBB-980D-4829-A28E-39C849480C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F034EEBB-980D-4829-A28E-39C849480C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F034EEBB-980D-4829-A28E-39C849480C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F034EEBB-980D-4829-A28E-39C849480C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1990F8-C12B-4307-A94A-E1F54CD73F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1990F8-C12B-4307-A94A-E1F54CD73F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1990F8-C12B-4307-A94A-E1F54CD73F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1990F8-C12B-4307-A94A-E1F54CD73F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
